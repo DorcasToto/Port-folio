@@ -20,4 +20,31 @@
 }
 #desc h2{
     color: indigo;
+    font-weight: 700;
+}
+#projects h2{
+    color: indigo;
+    font-weight: 700;
+    text-align: center;
+}
+#projectss{
+    display: flex;
+    justify-content:space-around;
+}
+#projects{
+    padding-left: 5%;
+}
+#descParagraph1 p {
+    padding-left:5%;
+}
+#descParagraph1 h3 {
+   text-align: center;
+   font-weight: 900;
+}
+#descParagraph2 p {
+    padding-left:5%;
+}
+#descParagraph2 h3 {
+   text-align: center;
+   font-weight: 900;
 }
