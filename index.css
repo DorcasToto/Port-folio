@@ -1,0 +1,23 @@
+.main-row img{
+    width:auto;
+    height:30.9rem;
+}
+.main-row p{
+    font-size: 22px;
+    color:indigo;
+    padding-left: 20%;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.main-row{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.aboutMe{
+    display: flex;
+    padding-left:5%;
+}
+#desc h2{
+    color: indigo;
+}
