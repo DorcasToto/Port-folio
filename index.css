@@ -1,0 +1,85 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main-row img{
+    width:auto;
+    height:30.9rem;
+}
+.main-row p{
+    font-size: 22px;
+    color:indigo;
+    padding-left: 20%;
+    font-weight: bolder;
+}
+
+.main-row{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.aboutMe{
+    display: flex;
+    padding-left:5%;
+}
+.aboutMe h2{
+    padding-left:15%;
+}
+#desc h2{
+    color: indigo;
+    font-weight: 700;
+}
+#projects h2{
+    color: indigo;
+    font-weight: 700;
+    text-align: center;
+}
+#projectss{
+    display: flex;
+    justify-content:space-around;
+    padding-right:5% ;
+}
+#projectss h3{
+    font-weight: 700;
+    padding-top:5%;
+}
+#projectss img{
+    height: 50%;
+    width: 80%;
+}
+#projects{
+    padding-left: 5%;
+}
+.Skills h2{
+    color: indigo;
+    font-weight: 700;
+    text-align: center;
+}
+.Skills p{
+    padding-left:5%;
+}
+#skills ul{
+    padding-left:35%;
+}
+.hobbyDesc h2{
+    color: indigo;
+    font-weight: 700;
+    text-align: center;
+}
+.hobbyDesc p{
+    padding-left: 5%;
+}
+#hobbyLinks ul{
+    padding-left:15%;
+}
+.contact h2{
+    color: indigo;
+    font-weight: 700;
+    text-align: center;
+}
+.contact p{
+    padding-left: 5%;
+}
+#contact ul{
+    padding-left:25%;
+
+}
